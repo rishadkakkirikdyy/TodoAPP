@@ -18,6 +18,18 @@ Login page Intagrated with FACEBOOK SDK for FACEBOOK Authentication
                        http://209.97.130.200:5000/todo/TodoListWithStatus
             5)-make the task as complete(POST-todo_id)
                        http://209.97.130.200:5000/todo/MakeAsComplete
+ 3-------------->
+ 
+ //CREATE todo task
+ for add new todo item in the list and server  you can see one pluse button on right side of home screen tab bar
+ 
+ //EDIT and DELETE
+ for editing and deleting you have to swipe to left on each row 
+ 
+ //MARK AS COMPLETE
+ for mark as a complete each task you can see one check box on left side of each row,onec you marked as an complete its not reversable
+ 
+ 
  
             
 
